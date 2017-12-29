@@ -1,0 +1,15 @@
+[submodule "Inco-command"]
+	path = Inco-command
+	url = git@github.com:CORDEA/Inco-command.git
+[submodule "Inco-android"]
+	path = Inco-android
+	url = git@github.com:CORDEA/Inco-android.git
+[submodule "Inco-extension"]
+	path = Inco-extension
+	url = git@github.com:CORDEA/Inco-extension.git
+[submodule "Inco-server"]
+	path = Inco-server
+	url = git@github.com:CORDEA/Inco-server.git
+[submodule "Inco-manager"]
+	path = Inco-manager
+	url = git@github.com:CORDEA/Inco-manager.git
